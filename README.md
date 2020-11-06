@@ -1,4 +1,4 @@
-# DAOPrism 🍣
+# DAOPrism an Inflationary and Deflationary Token with a Donation Mechanism
 
 https://daoprism.com. Feel free to read the code. More details coming soon.
 
